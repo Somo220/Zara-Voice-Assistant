@@ -98,10 +98,6 @@ This project is licensed under the MIT License.
 - **Development Tools:** VS Code , PyCharm , JetBrains Toolbox , Postman , Notepad.
 
 
-## Contact
 
-For any questions or support, please reach out to:
-
-- **Email:** ayusharyan473@gmail.com
 
 
